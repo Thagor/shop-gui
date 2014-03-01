@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package foo;
+package de.is.project.shop.gui;
 
 /**
  * A typical simple backing bean, that is backed to <code>helloworld.jsp</code>
